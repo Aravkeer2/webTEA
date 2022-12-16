@@ -17,7 +17,6 @@ const Navbar = () => {
           <p><a href="#wt">What is TEA?</a></p>
           <p><a href="#possibility">Benifits</a></p>
           <p><a href="#features">Know more</a></p>
-          
         </div>
       </div>
       <div className="t__navbar-sign">

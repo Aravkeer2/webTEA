@@ -13,11 +13,11 @@ const featuresData = [
   },
   {
     title: 'After workout beverage',
-    text: 'You sign up for gym, work out religiously but end up in muscle sores? Even though it’s a rewarding work, all you need is tea.',
+    text: 'You sign up for gym, work out religiously but end up in muscle sores? Even though its a rewarding work, all you need is tea.',
   },
   {
     title: 'Relief for Intestinal Inflammation',
-    text: 'Tea contains tannins which is anti-inflammatory in nature. This is especially good for people who suffer from what is known as the irritable bowel syndrome (IBS).',
+    text: 'Tea contains tannins which is anti-inflammatory in nature. This is especially good for people who suffer from what is known as the irritable bowel syndrome(IBS).',
   },
 ];
 
@@ -25,7 +25,7 @@ const Features = () => (
   <div className="t__features section__padding" id="features">
     <div className="t__features-heading">
       <h1 className="gradient__text">Health Benefits Of Drinking Tea</h1>
-      <p>“Where there's tea there's hope.”</p>
+      <p>Where there tea there hope.</p>
     </div>
     <div className="t__features-container">
       {featuresData.map((item, index) => (
